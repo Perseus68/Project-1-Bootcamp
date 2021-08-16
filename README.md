@@ -8,7 +8,7 @@ https://github.com/Perseus68/Project-1-Bootcamp/blob/d851f60f0f0be4b3cbd3b99e6d6
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
 
-  - _TODO: Enter the playbook file._
+  https://github.com/Perseus68/Project-1-Bootcamp/blob/feb4a85db9e72236d940d4287d5c3ebb1f9ae32a/install-elk(1).yml
 
 This document contains the following details:
 - Description of the Topologu
