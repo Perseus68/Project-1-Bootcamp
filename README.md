@@ -37,7 +37,7 @@ The configuration details of each machine may be found below.
 | Jump-Box | Gateway  | 10.0.0.7   | Linux            |
 | Web-1    | Client   | 10.0.0.6   | Linux            |
 | Web-2    | Client   | 10.0.0.5   | Linux            |
-| ELK      | Gateway  | 10.0.0.7   | Linux            |
+| ELK      | Gateway  | 10.0.0.4   | Linux            |
 | Name     | Function | IP Address | Operating System |
 
 
@@ -76,7 +76,7 @@ The playbook implements the following tasks:
 This ELK server is configured to monitor the following machines:
 - WEB-1 10.0.0.6
 - Web-2 10.0.0.5
-- ELK 10.0.0.7
+- ELK 10.0.0.4
 
 We have installed the following Beats on these machines:
 - filebeat-7.6.1-amd64.deb
