@@ -66,13 +66,11 @@ We can make updates without disrupting traffic and saves on manual resources.
 
 The playbook implements the following tasks:
 - Install Docker
-- Install PIP
+- Install PIP3
 - Install DOcker python
 - Download and Launch docker ELK container
-- 
-The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
+- increase memory
 
-![TODO: Update the path with the name of your screenshot of docker ps output](Images/docker_ps_output.png)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
