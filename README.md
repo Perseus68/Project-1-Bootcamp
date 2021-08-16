@@ -4,7 +4,7 @@ Automated ELK Stack deployment
 
 The files in this repository were used to configure the network depicted below.
 
-jumpbox load balancer.PNG
+https://github.com/Perseus68/Project-1-Bootcamp/blob/d851f60f0f0be4b3cbd3b99e6d697a499dace0a4/jumpbox%20load%20balancer.PNG
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
 
